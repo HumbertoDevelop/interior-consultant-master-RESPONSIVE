@@ -148,8 +148,8 @@ body{
 .container-section-one a::after{
     content: '➡';
     position: absolute;
-    left: 100px;
-    bottom: -13px;
+    left: 110px;
+    bottom: -15px;
     font-size: 2rem; 
 }
 
